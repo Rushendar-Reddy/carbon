@@ -1,12 +1,14 @@
 # 🌿 Carbon Footprint Calculator
 
-An interactive web app to calculate and track your personal carbon emissions. Built with **Next.js 15**, **TypeScript**, and **Chart.js**, it helps you understand your environmental impact and take actionable steps to reduce it.
+An interactive web app to calculate and track your personal carbon emissions. Built with **React**, **TypeScript**, **HTML**, **CSS**, and **JavaScript**, it helps you understand your environmental impact and take actionable steps to reduce it.
 
 🔗 **Live Demo**: [carbon-footprints-cal.vercel.app](https://carbon-footprints-cal.vercel.app/)
 
-![Next.js](https://img.shields.io/badge/Next.js-15.1.3-black?style=for-the-badge\&logo=next.js)
+![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge\&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge\&logo=typescript)
-![Chart.js](https://img.shields.io/badge/Chart.js-4.4.0-ff6384?style=for-the-badge\&logo=chart.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge\&logo=vercel)
 
 ---
@@ -33,8 +35,8 @@ An interactive web app to calculate and track your personal carbon emissions. Bu
 
 ## 🚀 Tech Stack
 
-* **Next.js (App Router)** + **TypeScript**
-* **Tailwind CSS** for styling
+* **React + TypeScript**
+* **HTML + CSS + JavaScript**
 * **Chart.js** for data visualization
 * **jsPDF + html2canvas** for PDF export
 * **Vercel** for deployment
@@ -52,7 +54,7 @@ npm run dev
 
 ---
 
-## 🚣️ Roadmap
+## 🛣️ Roadmap
 
 * 🌐 Multi-language support
 * 📈 Advanced analytics dashboard
